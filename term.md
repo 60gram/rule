@@ -10,3 +10,4 @@
 7. remove VS delete
    - remove: 대상이 사라지지 않고 어디엔가 존재하는 경우에 사용
    - delete: 대상이 완전히 사라지는 
+8. logIn - ~~signIn~~
