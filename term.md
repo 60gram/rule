@@ -13,3 +13,6 @@
    - delete: 대상이 완전히 사라지는 
 9. logIn - ~~signIn~~
 10. uid - userId의 줄임 용어로 사용하지 말 것!, uid는 소셜로그인으로부터 얻은 인증 토큰 고유 값으로 사용함
+11. state VS status
+    - state: 어떠한 상태 중 하나를 표현할 때 사용(예: visiblity 등)
+    - status: 어떠한 경과의 진행 과정을 표현할 때 사용(예: 배송 진행 상태 등)
